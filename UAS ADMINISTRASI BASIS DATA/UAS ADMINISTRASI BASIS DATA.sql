@@ -1,3 +1,6 @@
+-- Nama: Puri Purna Magfirah
+-- NIM: 23241071
+-- Kelas: PTI B / 4
 -- Mata kuliah : Administrasi data
 
 USE pti_mart;
